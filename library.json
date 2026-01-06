@@ -1,0 +1,25 @@
+{
+    "name": "ADS131E08_LIB",
+    "version": "1.0.0",
+    "description": "Library for TI ADS131E08 8-Channel 24-Bit ADC. Developed by AGL",
+    "keywords": "ADC, SPI, ESP32, ADS131E08",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/nwf-a/ADS131E08_LIB.git"
+    },
+    "authors":
+    [
+        {
+            "name": "Nawaf",
+            "email": "ahmadnnawaf@gmail.com",
+            "maintainer": true
+        }
+    ],
+    "license": "MIT",
+    "frameworks": "arduino",
+    "platforms": "espressif32",
+    "build": {
+        "srcDir": "src"
+    },
+    "examples": "examples/*/*.ino"
+}
