@@ -12,8 +12,10 @@ ADS131E08_LIB/
 │   └── ADS131E08.cpp
 ├── examples/             # Firmware examples
 │   └── ESP32_ADS131E08_stream/
+│       └── ESP32_ADS131E08_stream.ino
 ├── extras/               # Desktop support tools
 │   └── gui_example/
+│       ├── gui_example.py
 │       └── requirements.txt
 ├── .gitattributes        
 ├── .gitignore            
